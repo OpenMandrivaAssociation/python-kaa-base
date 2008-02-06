@@ -2,7 +2,7 @@
 
 Summary: The Kaa Media Repository is a set of python modules related to media
 Name: python-%{pkgname}
-Version: 0.2.0
+Version: 0.3.0
 Release: %mkrel 1
 Source0: http://mesh.dl.sourceforge.net/sourceforge/freevo/%{pkgname}-%{version}.tar.gz
 License: LGPL
