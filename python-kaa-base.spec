@@ -6,7 +6,7 @@ Version: 0.6.0
 Release: 5
 Source0: http://mesh.dl.sourceforge.net/sourceforge/freevo/%{pkgname}-%{version}.tar.gz
 License: LGPL
-URL: http://sourceforge.net/projects/freevo/
+URL: https://sourceforge.net/projects/freevo/
 Group: Development/Python
 
 BuildRequires: python-devel
